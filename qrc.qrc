@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../资源/dyht.mp4</file>
+    </qresource>
+</RCC>
